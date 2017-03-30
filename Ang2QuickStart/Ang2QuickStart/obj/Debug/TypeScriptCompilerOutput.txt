@@ -1,0 +1,16 @@
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\Customer.js
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\Customer.js.map
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\app.component.js
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\app.component.js.map
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\app.module.js
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\app.module.js.map
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\main.js
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\main.js.map
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\Customer.js
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\Customer.js.map
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\app.component.js
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\app.component.js.map
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\app.module.js
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\app.module.js.map
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\main.js
+C:\Ganesh\POC\Ang2QuickStart\Ang2QuickStart\app\main.js.map
